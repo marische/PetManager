@@ -1,0 +1,11 @@
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\bin\Debug\PetManager.exe.config
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\bin\Debug\PetManager.exe
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\bin\Debug\PetManager.pdb
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.PetManagerForm.resources
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.Properties.Resources.resources
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.StatisticForm.resources
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.csproj.GenerateResource.cache
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.exe
+C:\Users\Daniel\source\repos\Workshop_PetManager_SS2018\PetManager\PetManager\obj\Debug\PetManager.pdb
